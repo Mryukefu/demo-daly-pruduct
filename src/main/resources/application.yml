@@ -1,0 +1,13 @@
+server:
+  address:
+  port: 5588
+
+
+
+  rabbitmq:
+    host: 42.192.81.74
+    port: 5672
+    username: admin
+    password: 123456
+    virtualHost: '/'
+
